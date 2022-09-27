@@ -11,6 +11,7 @@ def print_hi(name):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi('hello this is Amit')
+    destination = 'bhubaneswar'
+    print_hi(f'hello this is Amit:{destination}')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
